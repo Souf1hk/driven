@@ -1,0 +1,2 @@
+/Users/soufiane/Downloads/driven-user-DEV/android/app/.cxx/Debug/33331066/x86_64/CMakeFiles/edit_cache.dir
+/Users/soufiane/Downloads/driven-user-DEV/android/app/.cxx/Debug/33331066/x86_64/CMakeFiles/rebuild_cache.dir

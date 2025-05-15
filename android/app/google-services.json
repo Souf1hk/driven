@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "179721676956",
+    "firebase_url": "https://jaya-db008-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jaya-db008",
+    "storage_bucket": "jaya-db008.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179721676956:android:8c7c0d8208bf4debda6559",
+        "android_client_info": {
+          "package_name": "com.hail.jaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidTvckVGhasEmtXiPEETMpZi9Yu655ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179721676956:android:aafaafe15bdce7b6da6559",
+        "android_client_info": {
+          "package_name": "com.hail.jaya_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidTvckVGhasEmtXiPEETMpZi9Yu655ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

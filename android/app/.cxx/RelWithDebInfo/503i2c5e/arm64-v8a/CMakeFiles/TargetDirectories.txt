@@ -1,0 +1,2 @@
+/Users/azizhissi/Work/HAIL/jaya/android/app/.cxx/RelWithDebInfo/503i2c5e/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/azizhissi/Work/HAIL/jaya/android/app/.cxx/RelWithDebInfo/503i2c5e/arm64-v8a/CMakeFiles/rebuild_cache.dir

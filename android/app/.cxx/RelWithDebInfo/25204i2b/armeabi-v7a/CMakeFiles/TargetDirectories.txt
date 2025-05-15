@@ -1,0 +1,2 @@
+/Users/soufiane/Downloads/driven-user-DEV/android/app/.cxx/RelWithDebInfo/25204i2b/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/soufiane/Downloads/driven-user-DEV/android/app/.cxx/RelWithDebInfo/25204i2b/armeabi-v7a/CMakeFiles/rebuild_cache.dir
