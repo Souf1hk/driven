@@ -292,3 +292,5 @@ class _AggreementPageState extends State<AggreementPage> {
     );
   }
 }
+
+// Updated Driven UI with new design
